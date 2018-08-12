@@ -1,0 +1,20 @@
+{
+  "name": "todo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "ngoose": "^5.2.5",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {},
+  "author": "Rodriq",
+  "license": "ISC"
+}
